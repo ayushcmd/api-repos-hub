@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "last_updated": "2025",
+  "categories": [
+    {
+      "id": "ai-llm",
+      "name": "AI & LLM APIs",
+      "emoji": "🤖",
+      "file": "apis/ai-llm.md",
+      "repos": [
+        {
+          "name": "groq/groq-typescript",
+          "description": "Official GROQ SDK — fastest free LLM API",
+          "url": "https://github.com/groq/groq-typescript",
+          "tags": ["free", "api-key", "llm", "ai"],
+          "free_tier": true
+        },
+        {
+          "name": "ollama/ollama",
+          "description": "Run LLMs locally — no API key needed",
+          "url": "https://github.com/ollama/ollama",
+          "tags": ["free", "no-auth", "llm", "local"],
+          "free_tier": true
+        },
+        {
+          "name": "huggingface/transformers",
+          "description": "Most popular ML model library",
+          "url": "https://github.com/huggingface/transformers",
+          "tags": ["free", "api-key", "ml", "ai"],
+          "free_tier": true
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance APIs",
+      "emoji": "💰",
+      "file": "apis/finance.md",
+      "repos": [
+        {
+          "name": "maybe-finance/maybe",
+          "description": "Open source personal finance app",
+          "url": "https://github.com/maybe-finance/maybe",
+          "tags": ["finance", "open-source"],
+          "free_tier": true
+        },
+        {
+          "name": "ranaroussi/yfinance",
+          "description": "Yahoo Finance market data downloader",
+          "url": "https://github.com/ranaroussi/yfinance",
+          "tags": ["free", "no-auth", "stocks", "finance"],
+          "free_tier": true
+        }
+      ]
+    },
+    {
+      "id": "weather",
+      "name": "Weather APIs",
+      "emoji": "🌤️",
+      "file": "apis/weather.md",
+      "repos": [
+        {
+          "name": "open-meteo/open-meteo",
+          "description": "Free weather API — no key needed",
+          "url": "https://github.com/open-meteo/open-meteo",
+          "tags": ["free", "no-auth", "weather"],
+          "free_tier": true
+        }
+      ]
+    },
+    {
+      "id": "maps-location",
+      "name": "Maps & Location APIs",
+      "emoji": "🗺️",
+      "file": "apis/maps-location.md",
+      "repos": [
+        {
+          "name": "Leaflet/Leaflet",
+          "description": "Most popular open source map library",
+          "url": "https://github.com/Leaflet/Leaflet",
+          "tags": ["free", "no-auth", "maps"],
+          "free_tier": true
+        }
+      ]
+    },
+    {
+      "id": "auth",
+      "name": "Auth APIs",
+      "emoji": "🔐",
+      "file": "apis/auth.md",
+      "repos": [
+        {
+          "name": "nextauthjs/next-auth",
+          "description": "Auth for Next.js apps",
+          "url": "https://github.com/nextauthjs/next-auth",
+          "tags": ["free", "oauth", "auth"],
+          "free_tier": true
+        }
+      ]
+    },
+    {
+      "id": "communication",
+      "name": "Communication APIs",
+      "emoji": "📱",
+      "file": "apis/communication.md",
+      "repos": [
+        {
+          "name": "nodemailer/nodemailer",
+          "description": "Send emails from Node.js",
+          "url": "https://github.com/nodemailer/nodemailer",
+          "tags": ["free", "email", "smtp"],
+          "free_tier": true
+        }
+      ]
+    },
+    {
+      "id": "data-analytics",
+      "name": "Data & Analytics APIs",
+      "emoji": "📊",
+      "file": "apis/data-analytics.md",
+      "repos": [
+        {
+          "name": "public-apis/public-apis",
+          "description": "Master list of all free public APIs",
+          "url": "https://github.com/public-apis/public-apis",
+          "tags": ["free", "directory", "all-categories"],
+          "free_tier": true
+        }
+      ]
+    }
+  ]
+}
