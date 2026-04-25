@@ -125,7 +125,7 @@ We welcome all contributions — big or small! 💛
 
 <div align="center">
 
-**Made with 💛 for developers everywhere**
+
 
 ⭐ **Star this repo** — so you always have it when starting your next project!
 
