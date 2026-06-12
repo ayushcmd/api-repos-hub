@@ -109,7 +109,7 @@ Want to add a repo or fix a broken link?
 
 See → [CONTRIBUTING.md](CONTRIBUTING.md)
 
-We welcome all contributions — big or small! 💛
+We welcome all contributions — big or small! 
 
 <a href="https://github.com/ayushcmd/api-repos-hub/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ayushcmd/api-repos-hub"/>
