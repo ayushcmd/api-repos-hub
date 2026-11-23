@@ -25,6 +25,7 @@
 | World Bank API | Completely free | [api.worldbank.org](https://api.worldbank.org) |
 | NASA APIs | Free with key | [api.nasa.gov](https://api.nasa.gov) |
 | data.gov | Completely free | [api.data.gov](https://api.data.gov) |
+| Datacircle | Completely free, no key | [datacircle.dev](https://datacircle.dev) |
 
 ---
 
